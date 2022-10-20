@@ -14,7 +14,7 @@ on:
 
 env:
   # Deployment variables
-  ARTIFACT_REPO: reportero-strapi-backend
+  ARTIFACT_REPO: reportero-ayuda-social-strapi
   GAR_BASE: us-docker.pkg.dev/${{ secrets.GCP_PROJECT }}
   NODE_ENV: development
   SKIP_PREFLIGHT_CHECK: true
