@@ -63,12 +63,6 @@
       "inversedBy": "users",
       "configurable": false
     },
-    "institution": {
-      "type": "relation",
-      "relation": "manyToOne",
-      "target": "api::institution.institution",
-      "inversedBy": "members"
-    },
     "tickets": {
       "type": "relation",
       "relation": "oneToMany",
