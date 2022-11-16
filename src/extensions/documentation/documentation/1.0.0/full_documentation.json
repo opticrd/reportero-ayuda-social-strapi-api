@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-10-25T19:31:48.112Z"
+    "x-generation-date": "2022-11-16T16:15:41.950Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -2311,12 +2311,9 @@
                                     "type": "string",
                                     "enum": [
                                       "new",
-                                      "open",
-                                      "pending_reminder",
-                                      "closed",
-                                      "merged",
-                                      "removed",
-                                      "pending_close"
+                                      "accepted",
+                                      "in_revision",
+                                      "rejected"
                                     ]
                                   },
                                   "priority": {
@@ -4753,12 +4750,9 @@
                                   "type": "string",
                                   "enum": [
                                     "new",
-                                    "open",
-                                    "pending_reminder",
-                                    "closed",
-                                    "merged",
-                                    "removed",
-                                    "pending_close"
+                                    "accepted",
+                                    "in_revision",
+                                    "rejected"
                                   ]
                                 },
                                 "priority": {
@@ -7234,12 +7228,9 @@
                                   "type": "string",
                                   "enum": [
                                     "new",
-                                    "open",
-                                    "pending_reminder",
-                                    "closed",
-                                    "merged",
-                                    "removed",
-                                    "pending_close"
+                                    "accepted",
+                                    "in_revision",
+                                    "rejected"
                                   ]
                                 },
                                 "priority": {
@@ -10063,12 +10054,9 @@
                                 "type": "string",
                                 "enum": [
                                   "new",
-                                  "open",
-                                  "pending_reminder",
-                                  "closed",
-                                  "merged",
-                                  "removed",
-                                  "pending_close"
+                                  "accepted",
+                                  "in_revision",
+                                  "rejected"
                                 ]
                               },
                               "priority": {
@@ -12981,12 +12969,9 @@
                                     "type": "string",
                                     "enum": [
                                       "new",
-                                      "open",
-                                      "pending_reminder",
-                                      "closed",
-                                      "merged",
-                                      "removed",
-                                      "pending_close"
+                                      "accepted",
+                                      "in_revision",
+                                      "rejected"
                                     ]
                                   },
                                   "priority": {
@@ -15455,12 +15440,9 @@
                                   "type": "string",
                                   "enum": [
                                     "new",
-                                    "open",
-                                    "pending_reminder",
-                                    "closed",
-                                    "merged",
-                                    "removed",
-                                    "pending_close"
+                                    "accepted",
+                                    "in_revision",
+                                    "rejected"
                                   ]
                                 },
                                 "priority": {
@@ -18721,12 +18703,9 @@
                                   "type": "string",
                                   "enum": [
                                     "new",
-                                    "open",
-                                    "pending_reminder",
-                                    "closed",
-                                    "merged",
-                                    "removed",
-                                    "pending_close"
+                                    "accepted",
+                                    "in_revision",
+                                    "rejected"
                                   ]
                                 },
                                 "priority": {
@@ -21163,12 +21142,9 @@
                                 "type": "string",
                                 "enum": [
                                   "new",
-                                  "open",
-                                  "pending_reminder",
-                                  "closed",
-                                  "merged",
-                                  "removed",
-                                  "pending_close"
+                                  "accepted",
+                                  "in_revision",
+                                  "rejected"
                                 ]
                               },
                               "priority": {
@@ -22518,12 +22494,9 @@
                 "type": "string",
                 "enum": [
                   "new",
-                  "open",
-                  "pending_reminder",
-                  "closed",
-                  "merged",
-                  "removed",
-                  "pending_close"
+                  "accepted",
+                  "in_revision",
+                  "rejected"
                 ]
               },
               "priority": {
@@ -24700,12 +24673,9 @@
                                                 "type": "string",
                                                 "enum": [
                                                   "new",
-                                                  "open",
-                                                  "pending_reminder",
-                                                  "closed",
-                                                  "merged",
-                                                  "removed",
-                                                  "pending_close"
+                                                  "accepted",
+                                                  "in_revision",
+                                                  "rejected"
                                                 ]
                                               },
                                               "priority": {
@@ -25379,12 +25349,9 @@
                       "type": "string",
                       "enum": [
                         "new",
-                        "open",
-                        "pending_reminder",
-                        "closed",
-                        "merged",
-                        "removed",
-                        "pending_close"
+                        "accepted",
+                        "in_revision",
+                        "rejected"
                       ]
                     },
                     "priority": {
@@ -27637,12 +27604,9 @@
                                               "type": "string",
                                               "enum": [
                                                 "new",
-                                                "open",
-                                                "pending_reminder",
-                                                "closed",
-                                                "merged",
-                                                "removed",
-                                                "pending_close"
+                                                "accepted",
+                                                "in_revision",
+                                                "rejected"
                                               ]
                                             },
                                             "priority": {
@@ -28316,12 +28280,9 @@
                     "type": "string",
                     "enum": [
                       "new",
-                      "open",
-                      "pending_reminder",
-                      "closed",
-                      "merged",
-                      "removed",
-                      "pending_close"
+                      "accepted",
+                      "in_revision",
+                      "rejected"
                     ]
                   },
                   "priority": {
@@ -30965,12 +30926,9 @@
                                                               "type": "string",
                                                               "enum": [
                                                                 "new",
-                                                                "open",
-                                                                "pending_reminder",
-                                                                "closed",
-                                                                "merged",
-                                                                "removed",
-                                                                "pending_close"
+                                                                "accepted",
+                                                                "in_revision",
+                                                                "rejected"
                                                               ]
                                                             },
                                                             "priority": {
@@ -33390,12 +33348,9 @@
                                                             "type": "string",
                                                             "enum": [
                                                               "new",
-                                                              "open",
-                                                              "pending_reminder",
-                                                              "closed",
-                                                              "merged",
-                                                              "removed",
-                                                              "pending_close"
+                                                              "accepted",
+                                                              "in_revision",
+                                                              "rejected"
                                                             ]
                                                           },
                                                           "priority": {
@@ -35809,12 +35764,9 @@
                                                                             "type": "string",
                                                                             "enum": [
                                                                               "new",
-                                                                              "open",
-                                                                              "pending_reminder",
-                                                                              "closed",
-                                                                              "merged",
-                                                                              "removed",
-                                                                              "pending_close"
+                                                                              "accepted",
+                                                                              "in_revision",
+                                                                              "rejected"
                                                                             ]
                                                                           },
                                                                           "priority": {
@@ -38263,12 +38215,9 @@
                                                                           "type": "string",
                                                                           "enum": [
                                                                             "new",
-                                                                            "open",
-                                                                            "pending_reminder",
-                                                                            "closed",
-                                                                            "merged",
-                                                                            "removed",
-                                                                            "pending_close"
+                                                                            "accepted",
+                                                                            "in_revision",
+                                                                            "rejected"
                                                                           ]
                                                                         },
                                                                         "priority": {
@@ -40873,12 +40822,9 @@
                                                               "type": "string",
                                                               "enum": [
                                                                 "new",
-                                                                "open",
-                                                                "pending_reminder",
-                                                                "closed",
-                                                                "merged",
-                                                                "removed",
-                                                                "pending_close"
+                                                                "accepted",
+                                                                "in_revision",
+                                                                "rejected"
                                                               ]
                                                             },
                                                             "priority": {
@@ -43739,12 +43685,9 @@
                                                             "type": "string",
                                                             "enum": [
                                                               "new",
-                                                              "open",
-                                                              "pending_reminder",
-                                                              "closed",
-                                                              "merged",
-                                                              "removed",
-                                                              "pending_close"
+                                                              "accepted",
+                                                              "in_revision",
+                                                              "rejected"
                                                             ]
                                                           },
                                                           "priority": {

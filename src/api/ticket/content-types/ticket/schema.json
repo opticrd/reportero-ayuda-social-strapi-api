@@ -67,12 +67,9 @@
       "type": "enumeration",
       "enum": [
         "new",
-        "open",
-        "pending_reminder",
-        "closed",
-        "merged",
-        "removed",
-        "pending_close"
+        "accepted",
+        "in_revision",
+        "rejected"
       ],
       "default": "new",
       "required": true
