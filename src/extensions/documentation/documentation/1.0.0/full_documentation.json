@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-11-16T16:15:41.950Z"
+    "x-generation-date": "2022-11-16T16:23:02.247Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -2252,6 +2252,22 @@
                                                   "enum": [
                                                     "text/plain",
                                                     "text/html"
+                                                  ]
+                                                },
+                                                "type": {
+                                                  "type": "string",
+                                                  "enum": [
+                                                    "comment",
+                                                    "status"
+                                                  ]
+                                                },
+                                                "status_type": {
+                                                  "type": "string",
+                                                  "enum": [
+                                                    "new",
+                                                    "accepted",
+                                                    "in_revision",
+                                                    "rejected"
                                                   ]
                                                 },
                                                 "createdAt": {
@@ -4693,6 +4709,22 @@
                                                   "text/html"
                                                 ]
                                               },
+                                              "type": {
+                                                "type": "string",
+                                                "enum": [
+                                                  "comment",
+                                                  "status"
+                                                ]
+                                              },
+                                              "status_type": {
+                                                "type": "string",
+                                                "enum": [
+                                                  "new",
+                                                  "accepted",
+                                                  "in_revision",
+                                                  "rejected"
+                                                ]
+                                              },
                                               "createdAt": {
                                                 "type": "string",
                                                 "format": "date-time"
@@ -5050,6 +5082,22 @@
                 "enum": [
                   "text/plain",
                   "text/html"
+                ]
+              },
+              "type": {
+                "type": "string",
+                "enum": [
+                  "comment",
+                  "status"
+                ]
+              },
+              "status_type": {
+                "type": "string",
+                "enum": [
+                  "new",
+                  "accepted",
+                  "in_revision",
+                  "rejected"
                 ]
               }
             }
@@ -7171,6 +7219,22 @@
                                                   "text/html"
                                                 ]
                                               },
+                                              "type": {
+                                                "type": "string",
+                                                "enum": [
+                                                  "comment",
+                                                  "status"
+                                                ]
+                                              },
+                                              "status_type": {
+                                                "type": "string",
+                                                "enum": [
+                                                  "new",
+                                                  "accepted",
+                                                  "in_revision",
+                                                  "rejected"
+                                                ]
+                                              },
                                               "createdAt": {
                                                 "type": "string",
                                                 "format": "date-time"
@@ -7806,6 +7870,22 @@
                       "enum": [
                         "text/plain",
                         "text/html"
+                      ]
+                    },
+                    "type": {
+                      "type": "string",
+                      "enum": [
+                        "comment",
+                        "status"
+                      ]
+                    },
+                    "status_type": {
+                      "type": "string",
+                      "enum": [
+                        "new",
+                        "accepted",
+                        "in_revision",
+                        "rejected"
                       ]
                     },
                     "createdAt": {
@@ -9997,6 +10077,22 @@
                                                 "text/html"
                                               ]
                                             },
+                                            "type": {
+                                              "type": "string",
+                                              "enum": [
+                                                "comment",
+                                                "status"
+                                              ]
+                                            },
+                                            "status_type": {
+                                              "type": "string",
+                                              "enum": [
+                                                "new",
+                                                "accepted",
+                                                "in_revision",
+                                                "rejected"
+                                              ]
+                                            },
                                             "createdAt": {
                                               "type": "string",
                                               "format": "date-time"
@@ -10632,6 +10728,22 @@
                     "enum": [
                       "text/plain",
                       "text/html"
+                    ]
+                  },
+                  "type": {
+                    "type": "string",
+                    "enum": [
+                      "comment",
+                      "status"
+                    ]
+                  },
+                  "status_type": {
+                    "type": "string",
+                    "enum": [
+                      "new",
+                      "accepted",
+                      "in_revision",
+                      "rejected"
                     ]
                   },
                   "createdAt": {
@@ -12910,6 +13022,22 @@
                                                   "enum": [
                                                     "text/plain",
                                                     "text/html"
+                                                  ]
+                                                },
+                                                "type": {
+                                                  "type": "string",
+                                                  "enum": [
+                                                    "comment",
+                                                    "status"
+                                                  ]
+                                                },
+                                                "status_type": {
+                                                  "type": "string",
+                                                  "enum": [
+                                                    "new",
+                                                    "accepted",
+                                                    "in_revision",
+                                                    "rejected"
                                                   ]
                                                 },
                                                 "createdAt": {
@@ -15381,6 +15509,22 @@
                                                 "enum": [
                                                   "text/plain",
                                                   "text/html"
+                                                ]
+                                              },
+                                              "type": {
+                                                "type": "string",
+                                                "enum": [
+                                                  "comment",
+                                                  "status"
+                                                ]
+                                              },
+                                              "status_type": {
+                                                "type": "string",
+                                                "enum": [
+                                                  "new",
+                                                  "accepted",
+                                                  "in_revision",
+                                                  "rejected"
                                                 ]
                                               },
                                               "createdAt": {
@@ -18646,6 +18790,22 @@
                                                   "text/html"
                                                 ]
                                               },
+                                              "type": {
+                                                "type": "string",
+                                                "enum": [
+                                                  "comment",
+                                                  "status"
+                                                ]
+                                              },
+                                              "status_type": {
+                                                "type": "string",
+                                                "enum": [
+                                                  "new",
+                                                  "accepted",
+                                                  "in_revision",
+                                                  "rejected"
+                                                ]
+                                              },
                                               "createdAt": {
                                                 "type": "string",
                                                 "format": "date-time"
@@ -21083,6 +21243,22 @@
                                               "enum": [
                                                 "text/plain",
                                                 "text/html"
+                                              ]
+                                            },
+                                            "type": {
+                                              "type": "string",
+                                              "enum": [
+                                                "comment",
+                                                "status"
+                                              ]
+                                            },
+                                            "status_type": {
+                                              "type": "string",
+                                              "enum": [
+                                                "new",
+                                                "accepted",
+                                                "in_revision",
+                                                "rejected"
                                               ]
                                             },
                                             "createdAt": {
@@ -24616,6 +24792,22 @@
                                                                 "text/html"
                                                               ]
                                                             },
+                                                            "type": {
+                                                              "type": "string",
+                                                              "enum": [
+                                                                "comment",
+                                                                "status"
+                                                              ]
+                                                            },
+                                                            "status_type": {
+                                                              "type": "string",
+                                                              "enum": [
+                                                                "new",
+                                                                "accepted",
+                                                                "in_revision",
+                                                                "rejected"
+                                                              ]
+                                                            },
                                                             "createdAt": {
                                                               "type": "string",
                                                               "format": "date-time"
@@ -27545,6 +27737,22 @@
                                                             "enum": [
                                                               "text/plain",
                                                               "text/html"
+                                                            ]
+                                                          },
+                                                          "type": {
+                                                            "type": "string",
+                                                            "enum": [
+                                                              "comment",
+                                                              "status"
+                                                            ]
+                                                          },
+                                                          "status_type": {
+                                                            "type": "string",
+                                                            "enum": [
+                                                              "new",
+                                                              "accepted",
+                                                              "in_revision",
+                                                              "rejected"
                                                             ]
                                                           },
                                                           "createdAt": {
@@ -30869,6 +31077,22 @@
                                                                               "text/html"
                                                                             ]
                                                                           },
+                                                                          "type": {
+                                                                            "type": "string",
+                                                                            "enum": [
+                                                                              "comment",
+                                                                              "status"
+                                                                            ]
+                                                                          },
+                                                                          "status_type": {
+                                                                            "type": "string",
+                                                                            "enum": [
+                                                                              "new",
+                                                                              "accepted",
+                                                                              "in_revision",
+                                                                              "rejected"
+                                                                            ]
+                                                                          },
                                                                           "createdAt": {
                                                                             "type": "string",
                                                                             "format": "date-time"
@@ -33291,6 +33515,22 @@
                                                                             "text/html"
                                                                           ]
                                                                         },
+                                                                        "type": {
+                                                                          "type": "string",
+                                                                          "enum": [
+                                                                            "comment",
+                                                                            "status"
+                                                                          ]
+                                                                        },
+                                                                        "status_type": {
+                                                                          "type": "string",
+                                                                          "enum": [
+                                                                            "new",
+                                                                            "accepted",
+                                                                            "in_revision",
+                                                                            "rejected"
+                                                                          ]
+                                                                        },
                                                                         "createdAt": {
                                                                           "type": "string",
                                                                           "format": "date-time"
@@ -35705,6 +35945,22 @@
                                                                                           "enum": [
                                                                                             "text/plain",
                                                                                             "text/html"
+                                                                                          ]
+                                                                                        },
+                                                                                        "type": {
+                                                                                          "type": "string",
+                                                                                          "enum": [
+                                                                                            "comment",
+                                                                                            "status"
+                                                                                          ]
+                                                                                        },
+                                                                                        "status_type": {
+                                                                                          "type": "string",
+                                                                                          "enum": [
+                                                                                            "new",
+                                                                                            "accepted",
+                                                                                            "in_revision",
+                                                                                            "rejected"
                                                                                           ]
                                                                                         },
                                                                                         "createdAt": {
@@ -38156,6 +38412,22 @@
                                                                                         "enum": [
                                                                                           "text/plain",
                                                                                           "text/html"
+                                                                                        ]
+                                                                                      },
+                                                                                      "type": {
+                                                                                        "type": "string",
+                                                                                        "enum": [
+                                                                                          "comment",
+                                                                                          "status"
+                                                                                        ]
+                                                                                      },
+                                                                                      "status_type": {
+                                                                                        "type": "string",
+                                                                                        "enum": [
+                                                                                          "new",
+                                                                                          "accepted",
+                                                                                          "in_revision",
+                                                                                          "rejected"
                                                                                         ]
                                                                                       },
                                                                                       "createdAt": {
@@ -40763,6 +41035,22 @@
                                                                             "enum": [
                                                                               "text/plain",
                                                                               "text/html"
+                                                                            ]
+                                                                          },
+                                                                          "type": {
+                                                                            "type": "string",
+                                                                            "enum": [
+                                                                              "comment",
+                                                                              "status"
+                                                                            ]
+                                                                          },
+                                                                          "status_type": {
+                                                                            "type": "string",
+                                                                            "enum": [
+                                                                              "new",
+                                                                              "accepted",
+                                                                              "in_revision",
+                                                                              "rejected"
                                                                             ]
                                                                           },
                                                                           "createdAt": {
@@ -43626,6 +43914,22 @@
                                                                           "enum": [
                                                                             "text/plain",
                                                                             "text/html"
+                                                                          ]
+                                                                        },
+                                                                        "type": {
+                                                                          "type": "string",
+                                                                          "enum": [
+                                                                            "comment",
+                                                                            "status"
+                                                                          ]
+                                                                        },
+                                                                        "status_type": {
+                                                                          "type": "string",
+                                                                          "enum": [
+                                                                            "new",
+                                                                            "accepted",
+                                                                            "in_revision",
+                                                                            "rejected"
                                                                           ]
                                                                         },
                                                                         "createdAt": {

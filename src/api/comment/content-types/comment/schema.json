@@ -50,6 +50,23 @@
       ],
       "default": "text/plain",
       "required": true
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "comment",
+        "status"
+      ],
+      "default": "comment"
+    },
+    "status_type": {
+      "type": "enumeration",
+      "enum": [
+        "new",
+        "accepted",
+        "in_revision",
+        "rejected"
+      ]
     }
   }
 }
