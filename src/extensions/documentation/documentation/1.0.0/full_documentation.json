@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-11-16T16:23:02.247Z"
+    "x-generation-date": "2022-11-18T03:24:41.204Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -2329,7 +2329,8 @@
                                       "new",
                                       "accepted",
                                       "in_revision",
-                                      "rejected"
+                                      "rejected",
+                                      "closed"
                                     ]
                                   },
                                   "priority": {
@@ -4784,7 +4785,8 @@
                                     "new",
                                     "accepted",
                                     "in_revision",
-                                    "rejected"
+                                    "rejected",
+                                    "closed"
                                   ]
                                 },
                                 "priority": {
@@ -7294,7 +7296,8 @@
                                     "new",
                                     "accepted",
                                     "in_revision",
-                                    "rejected"
+                                    "rejected",
+                                    "closed"
                                   ]
                                 },
                                 "priority": {
@@ -10152,7 +10155,8 @@
                                   "new",
                                   "accepted",
                                   "in_revision",
-                                  "rejected"
+                                  "rejected",
+                                  "closed"
                                 ]
                               },
                               "priority": {
@@ -13099,7 +13103,8 @@
                                       "new",
                                       "accepted",
                                       "in_revision",
-                                      "rejected"
+                                      "rejected",
+                                      "closed"
                                     ]
                                   },
                                   "priority": {
@@ -15586,7 +15591,8 @@
                                     "new",
                                     "accepted",
                                     "in_revision",
-                                    "rejected"
+                                    "rejected",
+                                    "closed"
                                   ]
                                 },
                                 "priority": {
@@ -18865,7 +18871,8 @@
                                     "new",
                                     "accepted",
                                     "in_revision",
-                                    "rejected"
+                                    "rejected",
+                                    "closed"
                                   ]
                                 },
                                 "priority": {
@@ -21320,7 +21327,8 @@
                                   "new",
                                   "accepted",
                                   "in_revision",
-                                  "rejected"
+                                  "rejected",
+                                  "closed"
                                 ]
                               },
                               "priority": {
@@ -22672,7 +22680,8 @@
                   "new",
                   "accepted",
                   "in_revision",
-                  "rejected"
+                  "rejected",
+                  "closed"
                 ]
               },
               "priority": {
@@ -24867,7 +24876,8 @@
                                                   "new",
                                                   "accepted",
                                                   "in_revision",
-                                                  "rejected"
+                                                  "rejected",
+                                                  "closed"
                                                 ]
                                               },
                                               "priority": {
@@ -25543,7 +25553,8 @@
                         "new",
                         "accepted",
                         "in_revision",
-                        "rejected"
+                        "rejected",
+                        "closed"
                       ]
                     },
                     "priority": {
@@ -27814,7 +27825,8 @@
                                                 "new",
                                                 "accepted",
                                                 "in_revision",
-                                                "rejected"
+                                                "rejected",
+                                                "closed"
                                               ]
                                             },
                                             "priority": {
@@ -28490,7 +28502,8 @@
                       "new",
                       "accepted",
                       "in_revision",
-                      "rejected"
+                      "rejected",
+                      "closed"
                     ]
                   },
                   "priority": {
@@ -31152,7 +31165,8 @@
                                                                 "new",
                                                                 "accepted",
                                                                 "in_revision",
-                                                                "rejected"
+                                                                "rejected",
+                                                                "closed"
                                                               ]
                                                             },
                                                             "priority": {
@@ -33590,7 +33604,8 @@
                                                               "new",
                                                               "accepted",
                                                               "in_revision",
-                                                              "rejected"
+                                                              "rejected",
+                                                              "closed"
                                                             ]
                                                           },
                                                           "priority": {
@@ -36022,7 +36037,8 @@
                                                                               "new",
                                                                               "accepted",
                                                                               "in_revision",
-                                                                              "rejected"
+                                                                              "rejected",
+                                                                              "closed"
                                                                             ]
                                                                           },
                                                                           "priority": {
@@ -38489,7 +38505,8 @@
                                                                             "new",
                                                                             "accepted",
                                                                             "in_revision",
-                                                                            "rejected"
+                                                                            "rejected",
+                                                                            "closed"
                                                                           ]
                                                                         },
                                                                         "priority": {
@@ -41112,7 +41129,8 @@
                                                                 "new",
                                                                 "accepted",
                                                                 "in_revision",
-                                                                "rejected"
+                                                                "rejected",
+                                                                "closed"
                                                               ]
                                                             },
                                                             "priority": {
@@ -43991,7 +44009,8 @@
                                                               "new",
                                                               "accepted",
                                                               "in_revision",
-                                                              "rejected"
+                                                              "rejected",
+                                                              "closed"
                                                             ]
                                                           },
                                                           "priority": {

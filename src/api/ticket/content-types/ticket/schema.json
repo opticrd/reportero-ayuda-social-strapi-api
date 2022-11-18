@@ -69,7 +69,8 @@
         "new",
         "accepted",
         "in_revision",
-        "rejected"
+        "rejected",
+        "closed"
       ],
       "default": "new",
       "required": true
