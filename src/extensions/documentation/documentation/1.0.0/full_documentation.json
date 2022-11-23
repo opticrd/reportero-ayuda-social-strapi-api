@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-11-18T03:24:41.204Z"
+    "x-generation-date": "2022-11-23T18:26:03.601Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -2267,7 +2267,8 @@
                                                     "new",
                                                     "accepted",
                                                     "in_revision",
-                                                    "rejected"
+                                                    "rejected",
+                                                    "closed"
                                                   ]
                                                 },
                                                 "createdAt": {
@@ -4723,7 +4724,8 @@
                                                   "new",
                                                   "accepted",
                                                   "in_revision",
-                                                  "rejected"
+                                                  "rejected",
+                                                  "closed"
                                                 ]
                                               },
                                               "createdAt": {
@@ -5099,7 +5101,8 @@
                   "new",
                   "accepted",
                   "in_revision",
-                  "rejected"
+                  "rejected",
+                  "closed"
                 ]
               }
             }
@@ -7234,7 +7237,8 @@
                                                   "new",
                                                   "accepted",
                                                   "in_revision",
-                                                  "rejected"
+                                                  "rejected",
+                                                  "closed"
                                                 ]
                                               },
                                               "createdAt": {
@@ -7888,7 +7892,8 @@
                         "new",
                         "accepted",
                         "in_revision",
-                        "rejected"
+                        "rejected",
+                        "closed"
                       ]
                     },
                     "createdAt": {
@@ -10093,7 +10098,8 @@
                                                 "new",
                                                 "accepted",
                                                 "in_revision",
-                                                "rejected"
+                                                "rejected",
+                                                "closed"
                                               ]
                                             },
                                             "createdAt": {
@@ -10747,7 +10753,8 @@
                       "new",
                       "accepted",
                       "in_revision",
-                      "rejected"
+                      "rejected",
+                      "closed"
                     ]
                   },
                   "createdAt": {
@@ -13041,7 +13048,8 @@
                                                     "new",
                                                     "accepted",
                                                     "in_revision",
-                                                    "rejected"
+                                                    "rejected",
+                                                    "closed"
                                                   ]
                                                 },
                                                 "createdAt": {
@@ -15529,7 +15537,8 @@
                                                   "new",
                                                   "accepted",
                                                   "in_revision",
-                                                  "rejected"
+                                                  "rejected",
+                                                  "closed"
                                                 ]
                                               },
                                               "createdAt": {
@@ -18809,7 +18818,8 @@
                                                   "new",
                                                   "accepted",
                                                   "in_revision",
-                                                  "rejected"
+                                                  "rejected",
+                                                  "closed"
                                                 ]
                                               },
                                               "createdAt": {
@@ -21265,7 +21275,8 @@
                                                 "new",
                                                 "accepted",
                                                 "in_revision",
-                                                "rejected"
+                                                "rejected",
+                                                "closed"
                                               ]
                                             },
                                             "createdAt": {
@@ -24814,7 +24825,8 @@
                                                                 "new",
                                                                 "accepted",
                                                                 "in_revision",
-                                                                "rejected"
+                                                                "rejected",
+                                                                "closed"
                                                               ]
                                                             },
                                                             "createdAt": {
@@ -27763,7 +27775,8 @@
                                                               "new",
                                                               "accepted",
                                                               "in_revision",
-                                                              "rejected"
+                                                              "rejected",
+                                                              "closed"
                                                             ]
                                                           },
                                                           "createdAt": {
@@ -31103,7 +31116,8 @@
                                                                               "new",
                                                                               "accepted",
                                                                               "in_revision",
-                                                                              "rejected"
+                                                                              "rejected",
+                                                                              "closed"
                                                                             ]
                                                                           },
                                                                           "createdAt": {
@@ -33542,7 +33556,8 @@
                                                                             "new",
                                                                             "accepted",
                                                                             "in_revision",
-                                                                            "rejected"
+                                                                            "rejected",
+                                                                            "closed"
                                                                           ]
                                                                         },
                                                                         "createdAt": {
@@ -35975,7 +35990,8 @@
                                                                                             "new",
                                                                                             "accepted",
                                                                                             "in_revision",
-                                                                                            "rejected"
+                                                                                            "rejected",
+                                                                                            "closed"
                                                                                           ]
                                                                                         },
                                                                                         "createdAt": {
@@ -38443,7 +38459,8 @@
                                                                                           "new",
                                                                                           "accepted",
                                                                                           "in_revision",
-                                                                                          "rejected"
+                                                                                          "rejected",
+                                                                                          "closed"
                                                                                         ]
                                                                                       },
                                                                                       "createdAt": {
@@ -41067,7 +41084,8 @@
                                                                               "new",
                                                                               "accepted",
                                                                               "in_revision",
-                                                                              "rejected"
+                                                                              "rejected",
+                                                                              "closed"
                                                                             ]
                                                                           },
                                                                           "createdAt": {
@@ -43947,7 +43965,8 @@
                                                                             "new",
                                                                             "accepted",
                                                                             "in_revision",
-                                                                            "rejected"
+                                                                            "rejected",
+                                                                            "closed"
                                                                           ]
                                                                         },
                                                                         "createdAt": {
