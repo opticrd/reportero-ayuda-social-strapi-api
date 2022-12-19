@@ -65,6 +65,7 @@
         "new",
         "accepted",
         "in_revision",
+        "processed",
         "rejected",
         "closed"
       ]

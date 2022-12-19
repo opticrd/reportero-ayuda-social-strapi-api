@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-11-23T18:26:03.601Z"
+    "x-generation-date": "2022-12-19T18:02:29.535Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -2267,6 +2267,7 @@
                                                     "new",
                                                     "accepted",
                                                     "in_revision",
+                                                    "processed",
                                                     "rejected",
                                                     "closed"
                                                   ]
@@ -2330,6 +2331,7 @@
                                       "new",
                                       "accepted",
                                       "in_revision",
+                                      "processed",
                                       "rejected",
                                       "closed"
                                     ]
@@ -4724,6 +4726,7 @@
                                                   "new",
                                                   "accepted",
                                                   "in_revision",
+                                                  "processed",
                                                   "rejected",
                                                   "closed"
                                                 ]
@@ -4787,6 +4790,7 @@
                                     "new",
                                     "accepted",
                                     "in_revision",
+                                    "processed",
                                     "rejected",
                                     "closed"
                                   ]
@@ -5101,6 +5105,7 @@
                   "new",
                   "accepted",
                   "in_revision",
+                  "processed",
                   "rejected",
                   "closed"
                 ]
@@ -7237,6 +7242,7 @@
                                                   "new",
                                                   "accepted",
                                                   "in_revision",
+                                                  "processed",
                                                   "rejected",
                                                   "closed"
                                                 ]
@@ -7300,6 +7306,7 @@
                                     "new",
                                     "accepted",
                                     "in_revision",
+                                    "processed",
                                     "rejected",
                                     "closed"
                                   ]
@@ -7892,6 +7899,7 @@
                         "new",
                         "accepted",
                         "in_revision",
+                        "processed",
                         "rejected",
                         "closed"
                       ]
@@ -10098,6 +10106,7 @@
                                                 "new",
                                                 "accepted",
                                                 "in_revision",
+                                                "processed",
                                                 "rejected",
                                                 "closed"
                                               ]
@@ -10161,6 +10170,7 @@
                                   "new",
                                   "accepted",
                                   "in_revision",
+                                  "processed",
                                   "rejected",
                                   "closed"
                                 ]
@@ -10753,6 +10763,7 @@
                       "new",
                       "accepted",
                       "in_revision",
+                      "processed",
                       "rejected",
                       "closed"
                     ]
@@ -13048,6 +13059,7 @@
                                                     "new",
                                                     "accepted",
                                                     "in_revision",
+                                                    "processed",
                                                     "rejected",
                                                     "closed"
                                                   ]
@@ -13111,6 +13123,7 @@
                                       "new",
                                       "accepted",
                                       "in_revision",
+                                      "processed",
                                       "rejected",
                                       "closed"
                                     ]
@@ -15537,6 +15550,7 @@
                                                   "new",
                                                   "accepted",
                                                   "in_revision",
+                                                  "processed",
                                                   "rejected",
                                                   "closed"
                                                 ]
@@ -15600,6 +15614,7 @@
                                     "new",
                                     "accepted",
                                     "in_revision",
+                                    "processed",
                                     "rejected",
                                     "closed"
                                   ]
@@ -18818,6 +18833,7 @@
                                                   "new",
                                                   "accepted",
                                                   "in_revision",
+                                                  "processed",
                                                   "rejected",
                                                   "closed"
                                                 ]
@@ -18881,6 +18897,7 @@
                                     "new",
                                     "accepted",
                                     "in_revision",
+                                    "processed",
                                     "rejected",
                                     "closed"
                                   ]
@@ -21275,6 +21292,7 @@
                                                 "new",
                                                 "accepted",
                                                 "in_revision",
+                                                "processed",
                                                 "rejected",
                                                 "closed"
                                               ]
@@ -21338,6 +21356,7 @@
                                   "new",
                                   "accepted",
                                   "in_revision",
+                                  "processed",
                                   "rejected",
                                   "closed"
                                 ]
@@ -22691,6 +22710,7 @@
                   "new",
                   "accepted",
                   "in_revision",
+                  "processed",
                   "rejected",
                   "closed"
                 ]
@@ -24825,6 +24845,7 @@
                                                                 "new",
                                                                 "accepted",
                                                                 "in_revision",
+                                                                "processed",
                                                                 "rejected",
                                                                 "closed"
                                                               ]
@@ -24888,6 +24909,7 @@
                                                   "new",
                                                   "accepted",
                                                   "in_revision",
+                                                  "processed",
                                                   "rejected",
                                                   "closed"
                                                 ]
@@ -25565,6 +25587,7 @@
                         "new",
                         "accepted",
                         "in_revision",
+                        "processed",
                         "rejected",
                         "closed"
                       ]
@@ -27775,6 +27798,7 @@
                                                               "new",
                                                               "accepted",
                                                               "in_revision",
+                                                              "processed",
                                                               "rejected",
                                                               "closed"
                                                             ]
@@ -27838,6 +27862,7 @@
                                                 "new",
                                                 "accepted",
                                                 "in_revision",
+                                                "processed",
                                                 "rejected",
                                                 "closed"
                                               ]
@@ -28515,6 +28540,7 @@
                       "new",
                       "accepted",
                       "in_revision",
+                      "processed",
                       "rejected",
                       "closed"
                     ]
@@ -31116,6 +31142,7 @@
                                                                               "new",
                                                                               "accepted",
                                                                               "in_revision",
+                                                                              "processed",
                                                                               "rejected",
                                                                               "closed"
                                                                             ]
@@ -31179,6 +31206,7 @@
                                                                 "new",
                                                                 "accepted",
                                                                 "in_revision",
+                                                                "processed",
                                                                 "rejected",
                                                                 "closed"
                                                               ]
@@ -33556,6 +33584,7 @@
                                                                             "new",
                                                                             "accepted",
                                                                             "in_revision",
+                                                                            "processed",
                                                                             "rejected",
                                                                             "closed"
                                                                           ]
@@ -33619,6 +33648,7 @@
                                                               "new",
                                                               "accepted",
                                                               "in_revision",
+                                                              "processed",
                                                               "rejected",
                                                               "closed"
                                                             ]
@@ -35990,6 +36020,7 @@
                                                                                             "new",
                                                                                             "accepted",
                                                                                             "in_revision",
+                                                                                            "processed",
                                                                                             "rejected",
                                                                                             "closed"
                                                                                           ]
@@ -36053,6 +36084,7 @@
                                                                               "new",
                                                                               "accepted",
                                                                               "in_revision",
+                                                                              "processed",
                                                                               "rejected",
                                                                               "closed"
                                                                             ]
@@ -38459,6 +38491,7 @@
                                                                                           "new",
                                                                                           "accepted",
                                                                                           "in_revision",
+                                                                                          "processed",
                                                                                           "rejected",
                                                                                           "closed"
                                                                                         ]
@@ -38522,6 +38555,7 @@
                                                                             "new",
                                                                             "accepted",
                                                                             "in_revision",
+                                                                            "processed",
                                                                             "rejected",
                                                                             "closed"
                                                                           ]
@@ -41084,6 +41118,7 @@
                                                                               "new",
                                                                               "accepted",
                                                                               "in_revision",
+                                                                              "processed",
                                                                               "rejected",
                                                                               "closed"
                                                                             ]
@@ -41147,6 +41182,7 @@
                                                                 "new",
                                                                 "accepted",
                                                                 "in_revision",
+                                                                "processed",
                                                                 "rejected",
                                                                 "closed"
                                                               ]
@@ -43965,6 +44001,7 @@
                                                                             "new",
                                                                             "accepted",
                                                                             "in_revision",
+                                                                            "processed",
                                                                             "rejected",
                                                                             "closed"
                                                                           ]
@@ -44028,6 +44065,7 @@
                                                               "new",
                                                               "accepted",
                                                               "in_revision",
+                                                              "processed",
                                                               "rejected",
                                                               "closed"
                                                             ]
