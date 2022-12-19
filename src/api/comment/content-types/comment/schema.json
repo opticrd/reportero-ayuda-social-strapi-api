@@ -48,7 +48,27 @@
         "text/plain",
         "text/html"
       ],
-      "default": "text/plain"
+      "default": "text/plain",
+      "required": true
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "comment",
+        "status"
+      ],
+      "default": "comment"
+    },
+    "status_type": {
+      "type": "enumeration",
+      "enum": [
+        "new",
+        "accepted",
+        "in_revision",
+        "processed",
+        "rejected",
+        "closed"
+      ]
     }
   }
 }
